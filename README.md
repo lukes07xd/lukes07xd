@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm lukes07 and i'm a full stack web developer.
+### I'm lukes07, I'm from Czechia and i'm a full stack web developer.
 ### I can do magic in: HTML, CSS + SCSS, JavaScript, PHP and Python
 ### Also, I know my sh1t when working with linux.. just so you trolls don't tell me to type this: "sudo rm -rf /*"
 ### For everyone using linux, ⚠️DON'T DO THAT⚠️
