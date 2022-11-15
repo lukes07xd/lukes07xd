@@ -8,4 +8,3 @@
 - 📫 How to reach me: Write me an email to: lukes07.kontakt@email.cz or stdacontact@email.cz
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You have probably never seen the homepage of stack overflow... I have seen it tho
-![image](https://user-images.githubusercontent.com/96020080/202042449-ab6df2bb-08ed-4007-9c70-748143e16c28.png)
