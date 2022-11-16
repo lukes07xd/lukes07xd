@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning while coding.
 - 📫 How to reach me: Write me an email to: lukes07.kontakt@email.cz or message me on discord: "! ! ! lukes07.exe#0987"
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You have probably never seen the homepage of stack overflow... I have seen it tho
+- ⚡ Fun fact: Stack Overflow has a homepage you've never seen... I have seen it tho
