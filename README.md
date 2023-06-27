@@ -8,3 +8,4 @@
 - 📫 You can reach me by writing an email to lukes07.kontakt@email.cz or messaging me on discord, my username there is "lukes07".
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stack Overflow has a homepage you've never seen...
+<a href=#><img src="contributions.svg"></a>
