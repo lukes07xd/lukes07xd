@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm lukes07, I'm from Czechia and i'm a full stack web developer.
-### I can do magic in: HTML, CSS + SCSS, JavaScript, PHP, Python and SQL
+### I'm lukes07, I'm from Czechia and i'm a developer and pentester.
+### I can do magic with OpenWRT.
 ### You can find my portfolio at https://lukes07xd.github.io
 ### I use Debian a lot.
 
